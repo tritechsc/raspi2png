@@ -1,5 +1,6 @@
 # raspi2png
-/home/pi/raspi2png -p NAME -d SECONDS
+## /home/pi/raspi2png -p NAME -d SECONDS
+
 Utility to take a snapshot of the raspberry pi screen and save it as a PNG file
 
     Usage: raspi2png [--pngname name] [--width <width>] [--height <height>] [--compression <level>] [--delay <delay>] [--display <number>] [--stdout] [--help]
